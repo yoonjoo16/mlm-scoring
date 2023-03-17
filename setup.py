@@ -18,7 +18,7 @@ setup(
         'regex',
         'sacrebleu',
         'mosestokenizer',
-        'transformers~=3.3.1'
+        'transformers~=4.4.2'
     ],
 
     extras_require={
